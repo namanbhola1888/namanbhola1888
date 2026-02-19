@@ -3,7 +3,7 @@ Hello! I’m Naman Bhola, a Computer Science student with a strong interest in M
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-bhola-197b67340) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhola.naman02@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF.svg?logo=firefox&logoColor=white)](https://createwithnaman.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-bhola-197b67340) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhola.naman02@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-6C63FF.svg?logo=firefox&logoColor=white)](https://createwithnaman.vercel.app/)
 
 
 # 💻 Tech Stack:
