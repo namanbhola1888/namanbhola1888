@@ -14,5 +14,5 @@ Hello! I’m Naman Bhola, a Computer Science student with a strong interest in M
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=namanbhola1888&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-
+![](https://github-readme-stats.vercel.app/api?username=namanbhola1888&theme=dark&include_all_commits=true&rand=1)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
