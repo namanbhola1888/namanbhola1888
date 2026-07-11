@@ -36,7 +36,8 @@ My work spans **API and backend systems**, **open-source CLI/SDK tools**, and **
 <tr>
 <td width="50%" valign="top">
 
-### RAG Pipeline
+<b>RAG Pipeline</b>
+
 Modular RAG system combining vector search, document retrieval, and context-aware generation.
 
 [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/namanbhola1888/RAG-Pipeline)
@@ -44,7 +45,8 @@ Modular RAG system combining vector search, document retrieval, and context-awar
 </td>
 <td width="50%" valign="top">
 
-### CyberIntel
+<b>CyberIntel</b>
+
 ML-powered SOC platform for network intrusion detection, built on the CIC-IDS2017 dataset.
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](http://cyber-intel-smoky.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/namanbhola1888/CyberIntel)
@@ -54,15 +56,17 @@ ML-powered SOC platform for network intrusion detection, built on the CIC-IDS201
 <tr>
 <td width="50%" valign="top">
 
-### gitinspect
-CLI + SDK that compares environment-level changes with 126 tests.
+<b>gitinspect</b>
+
+CLI + SDK that compares environment-level changes. 126 tests.
 
 [![PyPI](https://img.shields.io/badge/800%2B%20downloads-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/gitinspect/)
 
 </td>
 <td width="50%" valign="top">
 
-### pdfcleaner
+<b>pdfcleaner</b>
+
 PDF-to-clean-Markdown converter packaged as CLI + SDK. 43 tests.
 
 [![PyPI](https://img.shields.io/badge/800%2B%20downloads-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/pdfcleaner/)
@@ -80,12 +84,6 @@ PDF-to-clean-Markdown converter packaged as CLI + SDK. 43 tests.
 </div>
 
 ---
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![](https://skillicons.dev/icons?i=python,java,fastapi,django,react,mongodb,mysql,docker,selenium)
 
 ## 🛠️ Tech Stack
 
@@ -115,6 +113,7 @@ PDF-to-clean-Markdown converter packaged as CLI + SDK. 43 tests.
 </table>
 
 </div>
+
 ---
 
 ## 📊 GitHub Stats
