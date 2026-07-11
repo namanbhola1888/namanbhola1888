@@ -19,6 +19,7 @@ Building reliable, well-tested software — from open-source tools to production
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhola.naman02@gmail.com)
 
 </div>
+
 ---
 
 ## 🧠 About Me
@@ -54,7 +55,7 @@ ML-powered SOC platform for network intrusion detection, built on the CIC-IDS201
 <td width="50%" valign="top">
 
 ### gitinspect
-CLI + SDK that compares environment-level changes across git branches. 126-test suite.
+CLI + SDK that compares environment-level changes with 126-test.
 
 [![PyPI](https://img.shields.io/badge/800%2B%20downloads-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/gitinspect/)
 
