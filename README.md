@@ -47,7 +47,7 @@ Modular RAG system combining vector search, document retrieval, and context-awar
 ### CyberIntel
 ML-powered SOC platform for network intrusion detection, built on the CIC-IDS2017 dataset.
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](http://cyber-intel-smoky.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](http://cyber-intel-smoky.vercel.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/namanbhola1888/CyberIntel)
 
 </td>
 </tr>
@@ -87,17 +87,34 @@ PDF-to-clean-Markdown converter packaged as CLI + SDK. 43 tests.
 
 ![](https://skillicons.dev/icons?i=python,java,fastapi,django,react,mongodb,mysql,docker,selenium)
 
-| Category | Stack |
-|:---|:---|
-| **Languages** | Python, Java |
-| **Backend** | FastAPI, Django, Flask |
-| **ML & Data** | TensorFlow, scikit-learn, Pandas, NumPy |
-| **Frontend** | React |
-| **Databases** | MongoDB, MySQL |
-| **Tools** | Git, GitHub, Docker, Jenkins, Selenium |
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![](https://skillicons.dev/icons?i=python,java,fastapi,django,react,mongodb,mysql,docker,selenium)
+
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>Python, Java</td>
+<td><b>Backend</b></td>
+<td>FastAPI, Django, Flask</td>
+</tr>
+<tr>
+<td><b>ML & Data</b></td>
+<td>TensorFlow, scikit-learn, Pandas, NumPy</td>
+<td><b>Frontend</b></td>
+<td>React</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>MongoDB, MySQL</td>
+<td><b>Tools</b></td>
+<td>Git, GitHub, Docker, Jenkins, Selenium</td>
+</tr>
+</table>
 
 </div>
-
 ---
 
 ## 📊 GitHub Stats
