@@ -55,7 +55,7 @@ ML-powered SOC platform for network intrusion detection, built on the CIC-IDS201
 <td width="50%" valign="top">
 
 ### gitinspect
-CLI + SDK that compares environment-level changes with 126-test.
+CLI + SDK that compares environment-level changes with 126 tests.
 
 [![PyPI](https://img.shields.io/badge/800%2B%20downloads-3775A9?style=flat-square&logo=pypi&logoColor=white)](https://pypi.org/project/gitinspect/)
 
