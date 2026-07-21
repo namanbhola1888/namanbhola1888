@@ -22,7 +22,7 @@ Building reliable, well-tested software — from open-source tools to production
 
 <div align="center">
   <a href="https://createwithnaman.vercel.app/">
-    <img src="assets/portfolio.svg" width="56" height="56" style="display:block;" alt="Portfolio">
+    <img src="assets/portfolio.webp" width="56" height="56" style="display:block;" alt="Portfolio">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/naman-bhola-197b67340">
