@@ -8,6 +8,15 @@ Building reliable, well-tested software — from open-source tools to production
 
 </div>
 
+</td>
+
+<td>
+<img src="assets/front.gif" width="280" alt="Coding">
+</td>
+
+</tr>
+</table>
+
 ---
 
 ## 🌐 Connect
@@ -122,4 +131,10 @@ PDF-to-clean-Markdown converter packaged as CLI + SDK. 43 tests.
 
 ![](https://github-readme-stats.vercel.app/api?username=namanbhola1888&theme=dark&hide_border=true&count_private=true)
 
+</div>
+
+---
+
+<div align="center">
+  <img src="assets/bottom.gif" width="100%" alt="Footer animation">
 </div>
