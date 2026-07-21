@@ -21,11 +21,17 @@ Building reliable, well-tested software — from open-source tools to production
 ## 🌐 Connect
 
 <div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://createwithnaman.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/naman-bhola-197b67340)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhola.naman02@gmail.com)
-
+  <a href="https://createwithnaman.vercel.app/">
+    <img src="assets/portfolio.gif" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/naman-bhola-197b67340">
+    <img src="assets/linkedin.gif" width="60" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="mailto:bhola.naman02@gmail.com">
+    <img src="assets/gmail.gif" width="60" />
+  </a>
 </div>
 
 ---
