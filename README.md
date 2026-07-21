@@ -1,4 +1,6 @@
-<div align="center">
+<table>
+<tr>
+<td width="60%">
 
 # Hi, I'm Naman 👋
 
@@ -6,14 +8,11 @@
 
 Building reliable, well-tested software — from open-source tools to production backends.
 
-</div>
-
 </td>
 
-<td>
-<img src="assets/front.gif" width="280" alt="Coding">
+<td width="40%">
+<img src="assets/front.gif" width="280">
 </td>
-
 </tr>
 </table>
 
@@ -136,5 +135,5 @@ PDF-to-clean-Markdown converter packaged as CLI + SDK. 43 tests.
 ---
 
 <div align="center">
-  <img src="assets/bottom.gif" width="100%" alt="Footer animation">
+  <img src="assets/bottom.gif" width="60%">
 </div>
