@@ -22,15 +22,15 @@ Building reliable, well-tested software — from open-source tools to production
 
 <div align="center">
   <a href="https://createwithnaman.vercel.app/">
-    <img src="assets/portfolio.webp" width="40" alt="Portfolio">
+    <img src="assets/portfolio.svg" width="56" height="56" style="display:block;" alt="Portfolio">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/naman-bhola-197b67340">
-    <img src="assets/linkedin.svg" width="40" alt="LinkedIn">
+    <img src="assets/linkedin.svg" width="56" height="56" style="display:block;" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:bhola.naman02@gmail.com">
-    <img src="assets/gmail.svg" width="40" alt="Email">
+    <img src="assets/gmail.svg" width="56" height="56" style="display:block;" alt="Email">
   </a>
 </div>
 
